@@ -11,3 +11,5 @@ date
 echo "🔹 Calendar view:"
 cal || echo "⚠️ 'cal' command not found — install util-linux"
 
+echo "Ip of this system is "
+ip a
