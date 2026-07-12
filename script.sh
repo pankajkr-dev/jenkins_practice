@@ -13,3 +13,4 @@ cal || echo "⚠️ 'cal' command not found — install util-linux"
 
 echo "Hello from Ravi"
 echo "make some changes"
+echo "done chages from ravi"
